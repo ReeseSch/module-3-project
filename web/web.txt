@@ -1,0 +1,2 @@
+The internet is more or less a big network that is made up of smaller networks that are made up of computers and servers. Each computer has an ip adress and other computers can connect to that through an http or https. Other servers can be found through their hostname, which is translated into the ip adress by a DNS and connected that way.
+When you click on the link it takes the URL and sends it to a DNS. The DNS translates that URL into an IP adress to connect you directly to that site. Then it returns with the code for that site which displays.
